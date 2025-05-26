@@ -1,0 +1,7 @@
+resource "azurerm_staorage_account" "strg1" {
+
+name=   "strg-pintu"
+locatiob=   ""East Us
+resource_group_name ="Rg-Chintu"
+
+}
